@@ -1,0 +1,17 @@
+body{
+margin: 0;
+padding: 0;
+background-color: rgb(196, 90, 57);
+}
+
+.container{
+min-height: 500px;
+}
+
+.timer{
+font-size: 2rem;
+}
+
+.result{
+font-size: 1.5rem; 
+}
